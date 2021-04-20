@@ -13,7 +13,7 @@ ptvsd = "~=4.3.2"
 
 [packages]
 # Required by /opt/intel/openvino/deployment_tools/tools/model_downloader
-pyyaml = "~=5.1.2"
+pyyaml = "~=5.4"
 requests = "~=2.22.0"
 
 # Required by /opt/intel/openvino/deployment_tools/model_optimizer
