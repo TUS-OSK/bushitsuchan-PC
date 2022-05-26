@@ -17,7 +17,7 @@ pyyaml = "~=5.1.2"
 requests = "~=2.22.0"
 
 # Required by /opt/intel/openvino/deployment_tools/model_optimizer
-tensorflow = ">=1.2.0,<2.0.0,!=1.15.0"
+tensorflow = ">=1.2.0,!=1.15.0,<3.0.0"
 networkx = ">=1.11,<2.4"
 numpy = ">=1.12.0"
 defusedxml = ">=0.5.0"
